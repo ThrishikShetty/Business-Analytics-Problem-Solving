@@ -1,4 +1,4 @@
-# Business-Analytics-Problem-Solving#  Projects
+# Business-Analytics-Problem-Solving Projects
 
 A collection of **Business Analytics case studies** focused on analyzing business data, identifying trends and patterns, and providing data-driven recommendations.
 
